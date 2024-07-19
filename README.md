@@ -17,5 +17,4 @@ O InfoClub é um aplicativo de futebol onde os usuários podem pesquisar e obter
 ## Tecnologias Utilizadas
 
 - **React Native**: para o desenvolvimento da interface mobile.
-- **Selenium**: para obter dados em tempo real sobre os clubes e jogos.
-- **Python**: para scripts de automação e web scraping.
+
